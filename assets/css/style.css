@@ -1,0 +1,24 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+.navbar {
+  background-color: #28a745 !important;
+}
+
+.fas {
+  font-size: 0.8rem;
+  margin-right: 0.2rem;
+}
+
+.card-link {
+  text-decoration: none;
+}
+
+.oferta {
+  color: #28a745 !important;
+}
+
+.bg-green {
+  background-color: #28a745;
+}
